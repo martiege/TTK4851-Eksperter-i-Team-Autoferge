@@ -1,0 +1,6 @@
+[submodule "reports/Prosjektrapport"]
+	path = reports/Prosjektrapport
+	url = https://github.com/martiege/Prosjektrapport.git
+[submodule "reports/Autoferge"]
+	path = reports/Autoferge
+	url = https://github.com/martiege/Autoferge.git
