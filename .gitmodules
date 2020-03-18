@@ -4,3 +4,6 @@
 [submodule "reports/Autoferge"]
 	path = reports/Autoferge
 	url = https://github.com/martiege/Autoferge.git
+[submodule "code/NTNU_autoferge_orbSLAM"]
+	path = code/NTNU_autoferge_orbSLAM
+	url = https://github.com/amundfjosne/NTNU_autoferge_orbSLAM.git
